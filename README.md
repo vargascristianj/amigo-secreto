@@ -22,4 +22,4 @@ _Se está preparando el ambiente y repasando los conocimientos para comenzar el 
 * GitHub
 
 ## Personas desarrolladoras
-Cri
+Cristian Vargas
