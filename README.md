@@ -1,6 +1,6 @@
 # Amigo Secreto
 Bienvenidos al juego del Amigo Secreto!
-Este juego fue programado como respuesta al challenge del [Curso de Lógica de Programación](https://www.aluracursos.com/cursos-online-programacao/logica-de-programacion) (G8) de academia [Alura Latam](https://www.aluracursos.com/).
+Este juego fue programado como respuesta al challenge del [Curso de Lógica de Programación](https://www.aluracursos.com/cursos-online-programacao/logica-de-programacion) (G8-ONE) de academia [Alura Latam](https://www.aluracursos.com/).
 
 ## Descripción del Challenge
 El challenge consiste en desarrollar la lógica del juego en JavaScript partiendo de una web base entregada por el instructor diseñada con HTML, CSS y JS.
@@ -16,7 +16,7 @@ _Se está preparando el ambiente y repasando los conocimientos para comenzar el 
 
 ## Tecnologías utilizadas
 * HTML 
-* CCS
+* CSS
 * JavaScript
 * Visual Studio Code
 * GitHub
