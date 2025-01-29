@@ -20,9 +20,14 @@ El usuario agregará los nombres, uno a uno, mediante un campo de texto y un bot
 * Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 * Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
+### Reglas y condiciones
+* No se permite el ingreso de nombres vacíos o solo espacios. Al hacerlo se mostrará un mensaje de alerta y no se guardará el nombre.
+* Se debe ingresar al menos 2 amigos para realizar el sorteo y obtener el amigo secreto. Al ingresar el segundo nombre se habilitará el botón "Sortear amigo".
+* Luego de realizar el sorteo es posible reiniciar el juego presionando el botón "Reiniciar".
+
 ## Estado del Proyecto
-El proyecto se encuentra en **Preparación**.
-_Se está preparando el ambiente y repasando los conocimientos para comenzar el desarrollo_
+El proyecto se encuentra **Finalizado**.
+_Se ha desarrollado la lógica completa y se han adicionado mejoras en la usabilidad del juego_
 
 ## Tecnologías utilizadas
 * HTML 
